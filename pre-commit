@@ -1,0 +1,3 @@
+#!/bin/sh
+make
+git add index.html
