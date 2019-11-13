@@ -1,3 +1,4 @@
+#!/bin/sh
 SITE=duallicensing.com
 make
 scp index.html $SITE:/var/www/$SITE/
