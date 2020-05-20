@@ -1,0 +1,41 @@
+html {
+  font-family: sans-serif;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+header[role=banner],
+nav[role=navigation],
+main[role=main],
+footer[role=contentinfo] {
+  margin: 0 auto;
+  max-width: 30rem;
+}
+
+a[href] {
+  border-bottom: 1px dashed #999;
+  color: black;
+  text-decoration: none;
+}
+
+a[href]:hover {
+  border-bottom: 1px dashed #977;
+  color: #977;
+}
+
+ol li, ul li {
+  padding: 0.25rem 0;
+}
+
+nav[role=navigation] ol {
+  list-style-type: none;
+  padding: 0;
+}
+
+.twocolumn {
+  columns: 2;
+}
+
+ul {
+  padding: 0 0 0 1rem;
+}
