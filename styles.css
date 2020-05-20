@@ -13,6 +13,13 @@ footer[role=contentinfo] {
   max-width: 30rem;
 }
 
+footer[role=contentinfo] {
+  border-top: 1px solid black;
+  font-size: 85%;
+  padding-bottom: 3rem;
+  text-align: right;
+}
+
 a[href] {
   border-bottom: 1px dashed #999;
   color: black;
