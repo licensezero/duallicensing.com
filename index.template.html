@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>duallicensing.com</title>
+  <link href="styles.css" rel="stylesheet">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="duallicensing.com">
+  <meta name="twitter:description" content="the dual licensing business model">
+  <meta name="twitter:creator" content="@licensezero">
+  <meta name="og:type" content="website">
+  <meta name="og:title" content="duallicensing.com">
+  <meta name="og:description" content="the dual licensing business model">
+</head>
+<body>
+  <header role="banner">
+    <h1>duallicensing.com</h1>
+  </header>
+  <nav role="navigation">
+    <ol>
+      <li>
+        <a href="#what">What is dual licensing?</a>
+      </li>
+      <li>
+        <a href="#who">Who is dual licensing?</a>
+      </li>
+      <li>
+        <a href="#historic">Any historic examples?</a>
+      </li>
+      <li>
+        <a href="#learn">Where can I learn more?</a>
+      </li>
+    </ol>
+  </nav>
+  <main role="main">
+    <section id="what">
+      <h2>What is dual licensing?</h2>
+      <p>Dual licensing is the business model of giving software away under one set of terms for free and charging to do what the free terms don’t allow.</p>
+      <p>For example, a developer might allow noncommercial use of their software for free and charge for commercial use, or allow use in open source projects for free and charge for use in closed.</p>
+      <p>Dual licensing is sometimes called “selling exceptions” and “public-private licensing”. This helps to avoid confusion with other licensing choices that are also called “dual licensing”.</p>
+    </section>
+    <section id="who">
+      <h2>Who is dual licensing?</h2>
+      <ul class="twocolumn">
+        {{#licensors}}
+        <li>
+          <a href="{{url}}">{{company}}</a>
+          {{#formerly}}
+          (formerly {{.}})
+          {{/formerly}}
+          {{#products}}
+            {{#page}}(<a href="{{page}}">{{product}}</a>){{/page}}
+            {{^page}}({{product}}){{/page}}
+          {{/products}}
+        </li>
+        {{/licensors}}
+      </ul>
+      <p>Missing someone? <a href="https://github.com/licensezero/duallicensing.com/edit/master/index.html">Send a pull request</a> or <a href="mailto:kyle@artlessdevices.com">send an e-mail</a>!</p>
+    </section>
+    <section id="historic">
+      <h2>Any historic examples?</h2>
+      <ul>
+        <li>
+          <a href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)">NCSA Mosaic</a>
+        </li>
+        <li>
+          <a href="https://en.wikipedia.org/wiki/Netscape_Navigator">Netscape Navigator</a>
+        </li>
+      </ul>
+    </section>
+    <section id="learn">
+      <h2>Where can I learn more?</h2>
+      <ul>
+        <li>
+          <a href="https://indieopensource.com/public-private/indies">indieopensource.com’s Public-Private Licensing for Indies</a>
+        </li>
+        <li>
+          <a href="https://www.gnu.org/philosophy/pragmatic.html">Richard Stallman’s Copyleft: Pragmatic Idealism</a>
+        </li>
+      </ul>
+    </section>
+  </main>
+  <footer role="contentinfo">
+    <p>duallicensing.com is a project of <a href="https://licensezero.com">License Zero</a>.</p>
+  </footer>
+</body>
+</html>
