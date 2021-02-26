@@ -61,12 +61,11 @@
     <section id="historic">
       <h2>Any historic examples?</h2>
       <ul>
+        {{#historic}}
         <li>
-          <a href="https://en.wikipedia.org/wiki/Mosaic_(web_browser)">NCSA Mosaic</a>
+          <a href="{{url}}">{{name}}</a>
         </li>
-        <li>
-          <a href="https://en.wikipedia.org/wiki/Netscape_Navigator">Netscape Navigator</a>
-        </li>
+        {{/historic}}
       </ul>
     </section>
     <section id="learn">

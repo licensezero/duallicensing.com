@@ -239,5 +239,15 @@
         }
       ]
     }
+  ],
+  "historic": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mosaic_(web_browser)",
+      "name": "NCSA Mosaic"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Netscape_Navigator",
+      "name": "Netscape Navigator"
+    }
   ]
 }
