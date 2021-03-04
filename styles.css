@@ -9,7 +9,7 @@ nav[role=navigation],
 main[role=main],
 footer[role=contentinfo] {
   margin: 0 auto;
-  max-width: 30rem;
+  max-width: 33rem;
   padding: 0 1rem;
 }
 
