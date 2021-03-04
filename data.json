@@ -153,6 +153,16 @@
       ]
     },
     {
+      "company": "Pixelglow Software",
+      "url": "http://www.pixelglow.com/",
+      "products": [
+        {
+          "product": "macstl",
+          "page": "http://www.pixelglow.com/macstl/license/"
+        }
+      ]
+    },
+    {
       "company": "pngquant",
       "url": "https://pngquant.org/"
     },
