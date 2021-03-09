@@ -81,6 +81,24 @@
       "url": "https://www.jaspersoft.com/"
     },
     {
+      "company": "JOOQ",
+      "url": "https://jooq.org",
+      "products": [
+        {
+          "product": "Runtime",
+          "page": "https://www.jooq.org/legal/licensing"
+        },
+        {
+          "product": "Meta",
+          "page": "https://www.jooq.org/legal/licensing"
+        },
+        {
+          "product": "Codegen",
+          "page": "https://www.jooq.org/legal/licensing"
+        }
+      ]
+    },
+    {
       "company": "JBIG-KIT",
       "url": "https://www.cl.cam.ac.uk/~mgk25/jbigkit/"
     },
