@@ -23,6 +23,16 @@
       ]
     },
     {
+      "company": "Coherent Graphics Ltd",
+      "urkl": "https://www.coherentpdf.com/",
+      "products": [
+        {
+          "product": "Coherent PDF Command Line Tools",
+          "page": "http://community.coherentpdf.com/"
+        }
+      ]
+    },
+    {
       "company": "Compiere",
       "url": "http://www.compiere.com/",
       "products": [
