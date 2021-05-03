@@ -222,7 +222,13 @@
     },
     {
       "company": "Ian Lunn",
-      "url": "https://www.sequencejs.com/"
+      "url": "https://www.sequencejs.com/",
+      "products": [
+        {
+          "product": "sequence.js",
+          "page": "http://www.stripjs.com/license"
+        }
+      ]
     },
     {
       "company": "SQLite",
