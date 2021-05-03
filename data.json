@@ -83,6 +83,16 @@
       "url": "https://handsontable.com/pricing"
     },
     {
+      "company": "Highsoft",
+      "url": "https://highsoft.com",
+      "products": [
+        {
+          "product": "Highcharts",
+          "page": "https://shop.highsoft.com"
+        }
+      ]
+    },
+    {
       "company": "iText",
       "url": "https://itextpdf.com/en/how-buy"
     },
