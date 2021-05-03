@@ -221,6 +221,10 @@
       "url": "http://www.sendmail.com/"
     },
     {
+      "company": "Ian Lunn",
+      "url": "https://www.sequencejs.com/"
+    },
+    {
       "company": "SQLite",
       "url": "https://sqlite.org/"
     },
