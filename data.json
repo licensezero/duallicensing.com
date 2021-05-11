@@ -284,6 +284,16 @@
       ]
     },
     {
+      "company": "University of California Santa Cruz",
+      "url": "https://ucsc.edu/",
+      "products": [
+        {
+          "product": "Genome Browser",
+          "page": "https://genome.ucsc.edu/license/"
+        }
+      ]
+    },
+    {
       "company": "VideoLAN",
       "url": "https://www.videolan.org/developers/x264.html",
       "products": [
