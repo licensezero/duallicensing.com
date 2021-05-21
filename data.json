@@ -145,6 +145,15 @@
       ]
     },
     {
+      "company": "MobaTek",
+      "url": "https://mobatek.net",
+      "products": [
+        {
+          "product": "https://mobaxterm.mobatek.net/"
+        }
+      ]
+    },
+    {
       "company": "MongoDB",
       "url": "https://mongodb.com"
     },
