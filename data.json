@@ -297,6 +297,16 @@
       ]
     },
     {
+      "company": "Sencha",
+      "url": "https://sencha.com",
+      "products": [
+        {
+          "product": "EXT JS",
+          "page": "https://www.sencha.com/store/extjs/"
+        }
+      ]
+    },
+    {
       "company": "University of California Santa Cruz",
       "url": "https://ucsc.edu/",
       "products": [
