@@ -50,6 +50,16 @@
       "url": "https://github.com/kornelski/dssim"
     },
     {
+      "company": "Duende Softwware",
+      "url": "https://duendesoftware.com/",
+      "products": [
+        {
+          "product": "IndentityServer",
+          "page": "https://duendesoftware.com/products/identityserver"
+        }
+      ]
+    },
+    {
       "company": "EPPlus",
       "url": "https://www.epplussoftware.com/"
     },
