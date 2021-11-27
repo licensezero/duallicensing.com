@@ -327,6 +327,16 @@
       ]
     },
     {
+      "company": "ServiceStack",
+      "url": "https://servicestack.net",
+      "products": [
+        {
+          "product": "ServiceStack",
+          "page": "https://servicestack.net/pricing"
+        }
+      ]
+    },
+    {
       "company": "University of California Santa Cruz",
       "url": "https://ucsc.edu/",
       "products": [
