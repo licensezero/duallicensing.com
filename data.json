@@ -99,6 +99,16 @@
       "url": "https://gif.ski/"
     },
     {
+      "company": "Grafana",
+      "url": "https://grafana.com/licensing/",
+      "products": [
+        {
+          "product": "Grafana",
+          "page": "https://grafana.com/grafana/"
+        }
+      ]
+    },
+    {
       "company": "Handsontable",
       "url": "https://handsontable.com/pricing"
     },
