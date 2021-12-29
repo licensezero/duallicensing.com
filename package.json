@@ -1,6 +1,11 @@
 {
   "private": true,
   "devDependencies": {
+    "ajv-cli": "^5.0.0",
+    "ajv-formats": "^2.1.1",
     "mustache": "^4.2.0"
+  },
+  "scripts": {
+    "test": "ajv test -c ajv-formats -s schema.json -d data.json --valid"
   }
 }
