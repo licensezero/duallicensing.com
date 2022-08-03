@@ -385,6 +385,10 @@
       "name": "NCSA Mosaic"
     },
     {
+      "url": "https://en.wikipedia.org/wiki/Berkeley_DB",
+      "name": "BerkeleyDB"
+    },
+    {
       "url": "https://en.wikipedia.org/wiki/Netscape_Navigator",
       "name": "Netscape Navigator"
     }
