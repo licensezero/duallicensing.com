@@ -157,6 +157,16 @@
       "url": "https://www.cl.cam.ac.uk/~mgk25/jbigkit/"
     },
     {
+      "company": "Lightbend",
+      "url": "https://www.lightbend.com",
+      "products": [
+        {
+          "product": "Akka",
+          "page": "https://www.lightbend.com/akka/"
+        }
+      ]
+    },
+    {
       "company": "Magnolia CMS",
       "url": "https://www.magnolia-cms.com/"
     },
