@@ -157,6 +157,16 @@
       "url": "https://www.cl.cam.ac.uk/~mgk25/jbigkit/"
     },
     {
+      "company": "LexPredict",
+      "url": "https://lexpredict.com",
+      "products": [
+        {
+          "product": "ContraxSuite",
+          "page": "https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/"
+        }
+      ]
+    },
+    {
       "company": "Lightbend",
       "url": "https://www.lightbend.com",
       "products": [
