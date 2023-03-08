@@ -7,6 +7,9 @@
     "mustache": "^4.2.0"
   },
   "scripts": {
+    "data": "js-yaml < data.yml > data.json",
+    "schema": "js-yaml < schema.yml > schema.json",
+    "pretest": "npm run data && npm run schema",
     "test": "ajv test -c ajv-formats -s schema.json -d data.json --valid"
   }
 }
