@@ -154,8 +154,8 @@ licensors:
 - name: Oracle
   url: https://oracle.com
   products:
-  - url: https://www.oracle.com/database/technologies/related/berkeleydb.html
-    name: Berkeley DB
+  - name: Berkeley DB
+    url: https://www.oracle.com/database/technologies/related/berkeleydb.html
   - name: MySQL
     url: https://mysql.com
 
