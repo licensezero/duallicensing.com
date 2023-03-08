@@ -12,7 +12,7 @@ process.stdin
       fail(error)
     }
     parsed.licensors.sort((a, b) => {
-      return a.company.toLowerCase().localeCompare(b.company.toLowerCase())
+      return a.name.toLowerCase().localeCompare(b.name.toLowerCase())
     })
     process.stdout.write(JSON.stringify(parsed, null, 2) + '\n')
     process.exit(0)
