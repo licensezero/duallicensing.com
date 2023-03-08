@@ -2,26 +2,26 @@ licensors:
 - organization: Active Endpoints, Inc.
   url: https://www.activeendpoints.com/
   products:
-  - product: ActiveBPEL
+  - name: ActiveBPEL
 - organization: ActiveState
   url: https://www.activestate.com/solutions/licensing/
 - organization: Artifex
   url: https://artifex.com/licensing/
   products:
-  - product: Ghostscript
+  - name: Ghostscript
 - organization: Coherent Graphics Ltd
   url: https://www.coherentpdf.com/
   products:
-  - product: Coherent PDF Command Line Tools
+  - name: Coherent PDF Command Line Tools
     page: http://community.coherentpdf.com/
 - organization: Compiere
   url: http://www.compiere.com/
   products:
-  - product: ERP
+  - name: ERP
 - organization: Sangoma Technologies
   url: https://sangoma.com
   products:
-  - product: Asterix
+  - name: Asterix
     page: https://www.asterisk.org/products/software/licensing/
 - organization: drone.io
   url: https://drone.io/
@@ -30,7 +30,7 @@ licensors:
 - organization: Duende Softwware
   url: https://duendesoftware.com/
   products:
-  - product: IndentityServer
+  - name: IndentityServer
     page: https://duendesoftware.com/products/identityserver
 - organization: EPPlus
   url: https://www.epplussoftware.com/
@@ -39,7 +39,7 @@ licensors:
 - organization: FFTW
   url: http://fftw.org/
   products:
-  - product: MIT
+  - name: MIT
 - organization: FullPage.js
   url: https://alvarotrigo.com/fullPage/
 - organization: Funambol
@@ -51,14 +51,14 @@ licensors:
 - organization: Grafana
   url: https://grafana.com/licensing/
   products: 
-  - product: Grafana
+  - name: Grafana
     page: https://grafana.com/grafana/
 - organization: Handsontable
   url: https://handsontable.com/pricing
 - organization: Highsoft
   url: https://highsoft.com
   products:
-  - product: Highcharts
+  - name: Highcharts
     page: https://shop.highsoft.com
 - organization: iText
   url: https://itextpdf.com/en/how-buy
@@ -67,23 +67,23 @@ licensors:
 - organization: JOOQ
   url: https://jooq.org
   products:
-    - product: Runtime
+    - name: Runtime
       page: https://www.jooq.org/legal/licensing
-    - product: Meta
+    - name: Meta
       page: https://www.jooq.org/legal/licensing
-    - product: Codegen
+    - name: Codegen
       page: https://www.jooq.org/legal/licensing
 - organization: JBIG-KIT
   url: https://www.cl.cam.ac.uk/~mgk25/jbigkit/
 - organization: LexPredict
   url: https://lexpredict.com
   products:
-    - product: ContraxSuite
+    - name: ContraxSuite
       page: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
 - organization: Lightbend
   url: https://www.lightbend.com
   products:
-    - product: Akka
+    - name: Akka
       page: https://www.lightbend.com/akka/
 - organization: Magnolia CMS
   url: https://www.magnolia-cms.com/
@@ -92,10 +92,10 @@ licensors:
 - organization: Metafizzy
   url: https://metafizzy.co/
   products:
-    - product: Isotope
+    - name: Isotope
       page: https://isotope.metafizzy.co/license.html
     - page: https://flickity.metafizzy.co/license.html
-      product: Flickity
+      name: Flickity
 - organization: Metaways
   url: https://www.metaways.de/en/welcome/
 - organization: MinIO
@@ -103,7 +103,7 @@ licensors:
 - organization: MobaTek
   url: https://mobatek.net
   products:
-  - product: https://mobaxterm.mobatek.net/
+  - name: https://mobaxterm.mobatek.net/
 - organization: MongoDB
   url: https://mongodb.com
 - organization: MySQL
@@ -117,22 +117,22 @@ licensors:
 - organization: OPC Foundation
   url: https://opcfoundation.org
   products:
-  - product: UA
+  - name: UA
 - organization: Oracle
   url: https://oracle.com
   formerly: Sleepycat
   products:
   - page: https://www.oracle.com/database/technologies/related/berkeleydb.html
-    product: Berkeley DB
+    name: Berkeley DB
 - organization: Particular Software
   url: https://particular.net/
   products:
-  - product: NServiceBus
+  - name: NServiceBus
     page: https://particular.net/nservicebus
 - organization: Pixelglow Software
   url: http://www.pixelglow.com/
   products:
-  - product: macstl
+  - name: macstl
     page: http://www.pixelglow.com/macstl/license/
 - organization: pngquant
   url: https://pngquant.org/
@@ -141,65 +141,65 @@ licensors:
 - organization: Sangoma
   url: https://www.sangoma.com/
   products:
-  - product: Asterisk
+  - name: Asterisk
 - organization: ScientiaMobile
   url: https://scientiamobile.com
   products:
-  - product: WURFL
+  - name: WURFL
 - organization: Sendmail, Inc.
   url: http://www.sendmail.com/
 - organization: Ian Lunn
   url: https://www.sequencejs.com/
   products:
-  - product: sequence.js
+  - name: sequence.js
     page: http://www.stripjs.com/license
 - organization: SQLite
   url: https://sqlite.org/
 - organization: SugarCRM
   url: https://sugarcrm.com
   products:
-  - product: Sugar
+  - name: Sugar
 - organization: Technical Pursuit
   url: https://technicalpursuit.com/
   products:
-  - product: TIBET
+  - name: TIBET
     page: https://technicalpursuit.com/license.xhtml
 - organization: The Qt Company
   url: https://www.qt.io/company
   formerly: TrollTech AS
   products:
-  - product: Qt
+  - name: Qt
     page: https://www1.qt.io/licensing/
 - organization: Sencha
   url: https://sencha.com
   products:
-  - product: EXT JS
+  - name: EXT JS
     page: https://www.sencha.com/store/extjs/
 - organization: ServiceStack
   url: https://servicestack.net
   products:
-  - product: ServiceStack
+  - name: ServiceStack
     page: https://servicestack.net/pricing
 - organization: University of California Santa Cruz
   url: https://ucsc.edu/
   products:
-  - product: Genome Browser
+  - name: Genome Browser
     page: https://genome.ucsc.edu/license/
 - organization: University of Washington
   url: https://www.uw.edu
   products:
-  - product: Rosetta
+  - name: Rosetta
     page: https://els2.comotion.uw.edu/product/rosetta
 - organization: VideoLAN
   url: https://www.videolan.org/developers/x264.html
   products:
-  - product: x264
+  - name: x264
 - organization: ZenOSS
   url: http://zenoss.com/
 - organization: ZeroC
   url: https://zeroc.com/
   products:
-  - product: Ice
+  - name: Ice
     page: https://zeroc.com/licensing
 
 historic:

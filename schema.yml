@@ -16,9 +16,9 @@ properties:
           type: array
           items:
             type: object
-            required: [product]
+            required: [name]
             properties:
-              product:
+              name:
                 type: string
               page:
                 type: string
