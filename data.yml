@@ -100,7 +100,8 @@ licensors:
 - name: MobaTek
   url: https://mobatek.net
   products:
-  - name: https://mobaxterm.mobatek.net/
+  - name: MobaXterm
+    url: https://mobaxterm.mobatek.net/
 - name: MongoDB
   url: https://mongodb.com
 - name: Nmap Security Scanner
