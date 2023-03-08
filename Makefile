@@ -1,4 +1,4 @@
-.PHONY: all clean
+YAML=node_modules/.bin/js-yaml
 
 all: index.html
 
@@ -9,8 +9,13 @@ index.html: data.sorted.json index.template.html | node_modules
 data.sorted.json: data.json
 	./sort < $< > $@
 
+data.json: data.yml | $(YAML)
+	$(YAML) $< > $@
+
 node_modules:
 	npm ci
+
+.PHONY: clean
 
 clean:
 	rm -f index.html
