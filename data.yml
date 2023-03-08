@@ -185,6 +185,11 @@ licensors:
   products:
   - product: Genome Browser
     page: https://genome.ucsc.edu/license/
+- company: University of Washington
+  url: https://www.uw.edu
+  products:
+  - product: Rosetta
+    page: https://els2.comotion.uw.edu/product/rosetta
 - company: VideoLAN
   url: https://www.videolan.org/developers/x264.html
   products:
