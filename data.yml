@@ -103,8 +103,6 @@ licensors:
   - name: https://mobaxterm.mobatek.net/
 - name: MongoDB
   url: https://mongodb.com
-- name: MySQL
-  url: https://mysql.com
 - name: Nmap Security Scanner
   url: https://nmap.org/oem/
 - name: Obsidian
@@ -117,10 +115,11 @@ licensors:
   - name: UA
 - name: Oracle
   url: https://oracle.com
-  formerly: Sleepycat
   products:
   - page: https://www.oracle.com/database/technologies/related/berkeleydb.html
     name: Berkeley DB
+  - name: MySQL
+    page: https://mysql.com
 - name: Particular Software
   url: https://particular.net/
   products:
