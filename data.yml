@@ -225,9 +225,6 @@ licensors:
 
 - name: ServiceStack
   url: https://servicestack.net
-  products:
-  - name: ServiceStack
-    url: https://servicestack.net/pricing
 
 - name: University of California Santa Cruz
   url: https://ucsc.edu/
