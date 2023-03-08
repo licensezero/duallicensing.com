@@ -11,12 +11,18 @@ process.stdin
     } catch (error) {
       fail(error)
     }
-    parsed.licensors.sort((a, b) => {
-      return a.name.toLowerCase().localeCompare(b.name.toLowerCase())
-    })
+    parsed.licensors.sort(byName)
+    for (const licensor of parsed.licensors) {
+      const { products } = licensor
+      if (products) products.sort(byName)
+    }
     process.stdout.write(JSON.stringify(parsed, null, 2) + '\n')
     process.exit(0)
   })
+
+function byName (a, b) {
+  return a.name.toLowerCase().localeCompare(b.name.toLowerCase())
+}
 
 function fail (error) {
   console.error(error)
