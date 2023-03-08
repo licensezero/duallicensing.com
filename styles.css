@@ -43,3 +43,11 @@ body > nav ol {
 ul {
   padding: 0 0 0 1rem;
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: white;
+  }
+  a[href] { color: lightblue; }
+}
