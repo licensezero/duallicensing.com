@@ -1,66 +1,88 @@
 licensors:
+
 - name: Active Endpoints, Inc.
   url: https://www.activeendpoints.com/
   products:
   - name: ActiveBPEL
+
 - name: ActiveState
   url: https://www.activestate.com/solutions/licensing/
+
 - name: Artifex
   url: https://artifex.com/licensing/
   products:
   - name: Ghostscript
+
 - name: Coherent Graphics Ltd
   url: https://www.coherentpdf.com/
   products:
   - name: Coherent PDF Command Line Tools
     url: http://community.coherentpdf.com/
+
 - name: Compiere
   url: http://www.compiere.com/
   products:
   - name: ERP
+
 - name: Sangoma Technologies
   url: https://sangoma.com
   products:
   - name: Asterix
     url: https://www.asterisk.org/products/software/licensing/
+
 - name: drone.io
   url: https://drone.io/
+
 - name: DSSIM
   url: https://github.com/kornelski/dssim
+
 - name: Duende Softwware
   url: https://duendesoftware.com/
   products:
   - name: IndentityServer
     url: https://duendesoftware.com/products/identityserver
+
 - name: EPPlus
   url: https://www.epplussoftware.com/
+
 - name: Ettus Research
   url: https://www.ettus.com/
+
 - name: FFTW
   url: http://fftw.org/
   products:
   - name: MIT
+
 - name: FullPage.js
   url: https://alvarotrigo.com/fullPage/
+
 - name: Funambol
   url: https://funambol.com/
+
 - name: GeoGebra
   url: https://www.geogebra.org/license
+
 - name: Gifski
   url: https://gif.ski/
+
 - name: Grafana
   url: https://grafana.com/licensing/
+
 - name: Handsontable
   url: https://handsontable.com/pricing
+
 - name: Highsoft
   url: https://highsoft.com
   products:
   - name: Highcharts
     url: https://shop.highsoft.com
+
 - name: iText
   url: https://itextpdf.com/en/how-buy
+
 - name: Jaspersoft
   url: https://www.jaspersoft.com/
+
 - name: JOOQ
   url: https://jooq.org
   products:
@@ -70,22 +92,28 @@ licensors:
     url: https://www.jooq.org/legal/licensing
   - name: Codegen
     url: https://www.jooq.org/legal/licensing
+
 - name: JBIG-KIT
   url: https://www.cl.cam.ac.uk/~mgk25/jbigkit/
+
 - name: LexPredict
   url: https://lexpredict.com
   products:
   - name: ContraxSuite
     url: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
+
 - name: Lightbend
   url: https://www.lightbend.com
   products:
   - name: Akka
     url: https://www.lightbend.com/akka/
+
 - name: Magnolia CMS
   url: https://www.magnolia-cms.com/
+
 - name: Mergely
   url: http://mergely.com/license
+
 - name: Metafizzy
   url: https://metafizzy.co/
   products:
@@ -93,27 +121,36 @@ licensors:
     url: https://isotope.metafizzy.co/license.html
   - url: https://flickity.metafizzy.co/license.html
     name: Flickity
+
 - name: Metaways
   url: https://www.metaways.de/en/welcome/
+
 - name: MinIO
   url: https://min.io
+
 - name: MobaTek
   url: https://mobatek.net
   products:
   - name: MobaXterm
     url: https://mobaxterm.mobatek.net/
+
 - name: MongoDB
   url: https://mongodb.com
+
 - name: Nmap Security Scanner
   url: https://nmap.org/oem/
+
 - name: Obsidian
   url: https://obsidian.md/
+
 - name: Odoo
   url: https://odoo.com
+
 - name: OPC Foundation
   url: https://opcfoundation.org
   products:
   - name: UA
+
 - name: Oracle
   url: https://oracle.com
   products:
@@ -121,78 +158,97 @@ licensors:
     name: Berkeley DB
   - name: MySQL
     url: https://mysql.com
+
 - name: Particular Software
   url: https://particular.net/
   products:
   - name: NServiceBus
     url: https://particular.net/nservicebus
+
 - name: Pixelglow Software
   url: http://www.pixelglow.com/
   products:
   - name: macstl
     url: http://www.pixelglow.com/macstl/license/
+
 - name: pngquant
   url: https://pngquant.org/
+
 - name: RavenDB
   url: https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
+
 - name: Sangoma
   url: https://www.sangoma.com/
   products:
   - name: Asterisk
+
 - name: ScientiaMobile
   url: https://scientiamobile.com
   products:
   - name: WURFL
+
 - name: Sendmail, Inc.
   url: http://www.sendmail.com/
+
 - name: Ian Lunn
   url: https://www.sequencejs.com/
   products:
   - name: sequence.js
     url: http://www.stripjs.com/license
+
 - name: SQLite
   url: https://sqlite.org/
+
 - name: SugarCRM
   url: https://sugarcrm.com
   products:
   - name: Sugar
+
 - name: Technical Pursuit
   url: https://technicalpursuit.com/
   products:
   - name: TIBET
     url: https://technicalpursuit.com/license.xhtml
+
 - name: The Qt Company
   url: https://www.qt.io/company
   formerly: TrollTech AS
   products:
   - name: Qt
     url: https://www1.qt.io/licensing/
+
 - name: Sencha
   url: https://sencha.com
   products:
   - name: EXT JS
     url: https://www.sencha.com/store/extjs/
+
 - name: ServiceStack
   url: https://servicestack.net
   products:
   - name: ServiceStack
     url: https://servicestack.net/pricing
+
 - name: University of California Santa Cruz
   url: https://ucsc.edu/
   products:
   - name: Genome Browser
     url: https://genome.ucsc.edu/license/
+
 - name: University of Washington
   url: https://www.uw.edu
   products:
   - name: Rosetta
     url: https://els2.comotion.uw.edu/product/rosetta
+
 - name: VideoLAN
   url: https://www.videolan.org/developers/x264.html
   products:
   - name: x264
+
 - name: ZenOSS
   url: http://zenoss.com/
+
 - name: ZeroC
   url: https://zeroc.com/
   products:
@@ -200,9 +256,12 @@ licensors:
     url: https://zeroc.com/licensing
 
 historic:
+
 - url: https://en.wikipedia.org/wiki/Mosaic_(web_browser)
   name: NCSA Mosaic
+
 - url: https://en.wikipedia.org/wiki/Berkeley_DB
   name: BerkeleyDB
+
 - url: https://en.wikipedia.org/wiki/Netscape_Navigator
   name: Netscape Navigator
