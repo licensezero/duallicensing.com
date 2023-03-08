@@ -1,67 +1,67 @@
 licensors:
-- organization: Active Endpoints, Inc.
+- name: Active Endpoints, Inc.
   url: https://www.activeendpoints.com/
   products:
   - name: ActiveBPEL
-- organization: ActiveState
+- name: ActiveState
   url: https://www.activestate.com/solutions/licensing/
-- organization: Artifex
+- name: Artifex
   url: https://artifex.com/licensing/
   products:
   - name: Ghostscript
-- organization: Coherent Graphics Ltd
+- name: Coherent Graphics Ltd
   url: https://www.coherentpdf.com/
   products:
   - name: Coherent PDF Command Line Tools
     page: http://community.coherentpdf.com/
-- organization: Compiere
+- name: Compiere
   url: http://www.compiere.com/
   products:
   - name: ERP
-- organization: Sangoma Technologies
+- name: Sangoma Technologies
   url: https://sangoma.com
   products:
   - name: Asterix
     page: https://www.asterisk.org/products/software/licensing/
-- organization: drone.io
+- name: drone.io
   url: https://drone.io/
-- organization: DSSIM
+- name: DSSIM
   url: https://github.com/kornelski/dssim
-- organization: Duende Softwware
+- name: Duende Softwware
   url: https://duendesoftware.com/
   products:
   - name: IndentityServer
     page: https://duendesoftware.com/products/identityserver
-- organization: EPPlus
+- name: EPPlus
   url: https://www.epplussoftware.com/
-- organization: Ettus Research
+- name: Ettus Research
   url: https://www.ettus.com/
-- organization: FFTW
+- name: FFTW
   url: http://fftw.org/
   products:
   - name: MIT
-- organization: FullPage.js
+- name: FullPage.js
   url: https://alvarotrigo.com/fullPage/
-- organization: Funambol
+- name: Funambol
   url: https://funambol.com/
-- organization: GeoGebra
+- name: GeoGebra
   url: https://www.geogebra.org/license
-- organization: Gifski
+- name: Gifski
   url: https://gif.ski/
-- organization: Grafana
+- name: Grafana
   url: https://grafana.com/licensing/
-- organization: Handsontable
+- name: Handsontable
   url: https://handsontable.com/pricing
-- organization: Highsoft
+- name: Highsoft
   url: https://highsoft.com
   products:
   - name: Highcharts
     page: https://shop.highsoft.com
-- organization: iText
+- name: iText
   url: https://itextpdf.com/en/how-buy
-- organization: Jaspersoft
+- name: Jaspersoft
   url: https://www.jaspersoft.com/
-- organization: JOOQ
+- name: JOOQ
   url: https://jooq.org
   products:
     - name: Runtime
@@ -70,130 +70,130 @@ licensors:
       page: https://www.jooq.org/legal/licensing
     - name: Codegen
       page: https://www.jooq.org/legal/licensing
-- organization: JBIG-KIT
+- name: JBIG-KIT
   url: https://www.cl.cam.ac.uk/~mgk25/jbigkit/
-- organization: LexPredict
+- name: LexPredict
   url: https://lexpredict.com
   products:
     - name: ContraxSuite
       page: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
-- organization: Lightbend
+- name: Lightbend
   url: https://www.lightbend.com
   products:
     - name: Akka
       page: https://www.lightbend.com/akka/
-- organization: Magnolia CMS
+- name: Magnolia CMS
   url: https://www.magnolia-cms.com/
-- organization: Mergely
+- name: Mergely
   url: http://mergely.com/license
-- organization: Metafizzy
+- name: Metafizzy
   url: https://metafizzy.co/
   products:
     - name: Isotope
       page: https://isotope.metafizzy.co/license.html
     - page: https://flickity.metafizzy.co/license.html
       name: Flickity
-- organization: Metaways
+- name: Metaways
   url: https://www.metaways.de/en/welcome/
-- organization: MinIO
+- name: MinIO
   url: https://min.io
-- organization: MobaTek
+- name: MobaTek
   url: https://mobatek.net
   products:
   - name: https://mobaxterm.mobatek.net/
-- organization: MongoDB
+- name: MongoDB
   url: https://mongodb.com
-- organization: MySQL
+- name: MySQL
   url: https://mysql.com
-- organization: Nmap Security Scanner
+- name: Nmap Security Scanner
   url: https://nmap.org/oem/
-- organization: Obsidian
+- name: Obsidian
   url: https://obsidian.md/
-- organization: Odoo
+- name: Odoo
   url: https://odoo.com
-- organization: OPC Foundation
+- name: OPC Foundation
   url: https://opcfoundation.org
   products:
   - name: UA
-- organization: Oracle
+- name: Oracle
   url: https://oracle.com
   formerly: Sleepycat
   products:
   - page: https://www.oracle.com/database/technologies/related/berkeleydb.html
     name: Berkeley DB
-- organization: Particular Software
+- name: Particular Software
   url: https://particular.net/
   products:
   - name: NServiceBus
     page: https://particular.net/nservicebus
-- organization: Pixelglow Software
+- name: Pixelglow Software
   url: http://www.pixelglow.com/
   products:
   - name: macstl
     page: http://www.pixelglow.com/macstl/license/
-- organization: pngquant
+- name: pngquant
   url: https://pngquant.org/
-- organization: RavenDB
+- name: RavenDB
   url: https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
-- organization: Sangoma
+- name: Sangoma
   url: https://www.sangoma.com/
   products:
   - name: Asterisk
-- organization: ScientiaMobile
+- name: ScientiaMobile
   url: https://scientiamobile.com
   products:
   - name: WURFL
-- organization: Sendmail, Inc.
+- name: Sendmail, Inc.
   url: http://www.sendmail.com/
-- organization: Ian Lunn
+- name: Ian Lunn
   url: https://www.sequencejs.com/
   products:
   - name: sequence.js
     page: http://www.stripjs.com/license
-- organization: SQLite
+- name: SQLite
   url: https://sqlite.org/
-- organization: SugarCRM
+- name: SugarCRM
   url: https://sugarcrm.com
   products:
   - name: Sugar
-- organization: Technical Pursuit
+- name: Technical Pursuit
   url: https://technicalpursuit.com/
   products:
   - name: TIBET
     page: https://technicalpursuit.com/license.xhtml
-- organization: The Qt Company
+- name: The Qt Company
   url: https://www.qt.io/company
   formerly: TrollTech AS
   products:
   - name: Qt
     page: https://www1.qt.io/licensing/
-- organization: Sencha
+- name: Sencha
   url: https://sencha.com
   products:
   - name: EXT JS
     page: https://www.sencha.com/store/extjs/
-- organization: ServiceStack
+- name: ServiceStack
   url: https://servicestack.net
   products:
   - name: ServiceStack
     page: https://servicestack.net/pricing
-- organization: University of California Santa Cruz
+- name: University of California Santa Cruz
   url: https://ucsc.edu/
   products:
   - name: Genome Browser
     page: https://genome.ucsc.edu/license/
-- organization: University of Washington
+- name: University of Washington
   url: https://www.uw.edu
   products:
   - name: Rosetta
     page: https://els2.comotion.uw.edu/product/rosetta
-- organization: VideoLAN
+- name: VideoLAN
   url: https://www.videolan.org/developers/x264.html
   products:
   - name: x264
-- organization: ZenOSS
+- name: ZenOSS
   url: http://zenoss.com/
-- organization: ZeroC
+- name: ZeroC
   url: https://zeroc.com/
   products:
   - name: Ice
