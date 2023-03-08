@@ -1,70 +1,70 @@
 licensors:
-- company: Active Endpoints, Inc.
+- organization: Active Endpoints, Inc.
   url: https://www.activeendpoints.com/
   products:
   - product: ActiveBPEL
-- company: ActiveState
+- organization: ActiveState
   url: https://www.activestate.com/solutions/licensing/
-- company: Artifex
+- organization: Artifex
   url: https://artifex.com/licensing/
   products:
   - product: Ghostscript
-- company: Coherent Graphics Ltd
+- organization: Coherent Graphics Ltd
   url: https://www.coherentpdf.com/
   products:
   - product: Coherent PDF Command Line Tools
     page: http://community.coherentpdf.com/
-- company: Compiere
+- organization: Compiere
   url: http://www.compiere.com/
   products:
   - product: ERP
-- company: Sangoma Technologies
+- organization: Sangoma Technologies
   url: https://sangoma.com
   products:
   - product: Asterix
     page: https://www.asterisk.org/products/software/licensing/
-- company: drone.io
+- organization: drone.io
   url: https://drone.io/
-- company: DSSIM
+- organization: DSSIM
   url: https://github.com/kornelski/dssim
-- company: Duende Softwware
+- organization: Duende Softwware
   url: https://duendesoftware.com/
   products:
   - product: IndentityServer
     page: https://duendesoftware.com/products/identityserver
-- company: EPPlus
+- organization: EPPlus
   url: https://www.epplussoftware.com/
-- company: Ettus Research
+- organization: Ettus Research
   url: https://www.ettus.com/
-- company: FFTW
+- organization: FFTW
   url: http://fftw.org/
   products:
   - product: MIT
-- company: FullPage.js
+- organization: FullPage.js
   url: https://alvarotrigo.com/fullPage/
-- company: Funambol
+- organization: Funambol
   url: https://funambol.com/
-- company: GeoGebra
+- organization: GeoGebra
   url: https://www.geogebra.org/license
-- company: Gifski
+- organization: Gifski
   url: https://gif.ski/
-- company: Grafana
+- organization: Grafana
   url: https://grafana.com/licensing/
   products: 
   - product: Grafana
     page: https://grafana.com/grafana/
-- company: Handsontable
+- organization: Handsontable
   url: https://handsontable.com/pricing
-- company: Highsoft
+- organization: Highsoft
   url: https://highsoft.com
   products:
   - product: Highcharts
     page: https://shop.highsoft.com
-- company: iText
+- organization: iText
   url: https://itextpdf.com/en/how-buy
-- company: Jaspersoft
+- organization: Jaspersoft
   url: https://www.jaspersoft.com/
-- company: JOOQ
+- organization: JOOQ
   url: https://jooq.org
   products:
     - product: Runtime
@@ -73,130 +73,130 @@ licensors:
       page: https://www.jooq.org/legal/licensing
     - product: Codegen
       page: https://www.jooq.org/legal/licensing
-- company: JBIG-KIT
+- organization: JBIG-KIT
   url: https://www.cl.cam.ac.uk/~mgk25/jbigkit/
-- company: LexPredict
+- organization: LexPredict
   url: https://lexpredict.com
   products:
     - product: ContraxSuite
       page: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
-- company: Lightbend
+- organization: Lightbend
   url: https://www.lightbend.com
   products:
     - product: Akka
       page: https://www.lightbend.com/akka/
-- company: Magnolia CMS
+- organization: Magnolia CMS
   url: https://www.magnolia-cms.com/
-- company: Mergely
+- organization: Mergely
   url: http://mergely.com/license
-- company: Metafizzy
+- organization: Metafizzy
   url: https://metafizzy.co/
   products:
     - product: Isotope
       page: https://isotope.metafizzy.co/license.html
     - page: https://flickity.metafizzy.co/license.html
       product: Flickity
-- company: Metaways
+- organization: Metaways
   url: https://www.metaways.de/en/welcome/
-- company: MinIO
+- organization: MinIO
   url: https://min.io
-- company: MobaTek
+- organization: MobaTek
   url: https://mobatek.net
   products:
   - product: https://mobaxterm.mobatek.net/
-- company: MongoDB
+- organization: MongoDB
   url: https://mongodb.com
-- company: MySQL
+- organization: MySQL
   url: https://mysql.com
-- company: Nmap Security Scanner
+- organization: Nmap Security Scanner
   url: https://nmap.org/oem/
-- company: Obsidian
+- organization: Obsidian
   url: https://obsidian.md/
-- company: Odoo
+- organization: Odoo
   url: https://odoo.com
-- company: OPC Foundation
+- organization: OPC Foundation
   url: https://opcfoundation.org
   products:
   - product: UA
-- company: Oracle
+- organization: Oracle
   url: https://oracle.com
   formerly: Sleepycat
   products:
   - page: https://www.oracle.com/database/technologies/related/berkeleydb.html
     product: Berkeley DB
-- company: Particular Software
+- organization: Particular Software
   url: https://particular.net/
   products:
   - product: NServiceBus
     page: https://particular.net/nservicebus
-- company: Pixelglow Software
+- organization: Pixelglow Software
   url: http://www.pixelglow.com/
   products:
   - product: macstl
     page: http://www.pixelglow.com/macstl/license/
-- company: pngquant
+- organization: pngquant
   url: https://pngquant.org/
-- company: RavenDB
+- organization: RavenDB
   url: https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
-- company: Sangoma
+- organization: Sangoma
   url: https://www.sangoma.com/
   products:
   - product: Asterisk
-- company: ScientiaMobile
+- organization: ScientiaMobile
   url: https://scientiamobile.com
   products:
   - product: WURFL
-- company: Sendmail, Inc.
+- organization: Sendmail, Inc.
   url: http://www.sendmail.com/
-- company: Ian Lunn
+- organization: Ian Lunn
   url: https://www.sequencejs.com/
   products:
   - product: sequence.js
     page: http://www.stripjs.com/license
-- company: SQLite
+- organization: SQLite
   url: https://sqlite.org/
-- company: SugarCRM
+- organization: SugarCRM
   url: https://sugarcrm.com
   products:
   - product: Sugar
-- company: Technical Pursuit
+- organization: Technical Pursuit
   url: https://technicalpursuit.com/
   products:
   - product: TIBET
     page: https://technicalpursuit.com/license.xhtml
-- company: The Qt Company
+- organization: The Qt Company
   url: https://www.qt.io/company
   formerly: TrollTech AS
   products:
   - product: Qt
     page: https://www1.qt.io/licensing/
-- company: Sencha
+- organization: Sencha
   url: https://sencha.com
   products:
   - product: EXT JS
     page: https://www.sencha.com/store/extjs/
-- company: ServiceStack
+- organization: ServiceStack
   url: https://servicestack.net
   products:
   - product: ServiceStack
     page: https://servicestack.net/pricing
-- company: University of California Santa Cruz
+- organization: University of California Santa Cruz
   url: https://ucsc.edu/
   products:
   - product: Genome Browser
     page: https://genome.ucsc.edu/license/
-- company: University of Washington
+- organization: University of Washington
   url: https://www.uw.edu
   products:
   - product: Rosetta
     page: https://els2.comotion.uw.edu/product/rosetta
-- company: VideoLAN
+- organization: VideoLAN
   url: https://www.videolan.org/developers/x264.html
   products:
   - product: x264
-- company: ZenOSS
+- organization: ZenOSS
   url: http://zenoss.com/
-- company: ZeroC
+- organization: ZeroC
   url: https://zeroc.com/
   products:
   - product: Ice

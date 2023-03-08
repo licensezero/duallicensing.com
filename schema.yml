@@ -5,9 +5,9 @@ properties:
     type: array
     items:
       type: object
-      required: [company]
+      required: [organization]
       properties:
-        company:
+        organization:
           type: string
         url:
           type: string
