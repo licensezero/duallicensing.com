@@ -64,24 +64,24 @@ licensors:
 - name: JOOQ
   url: https://jooq.org
   products:
-    - name: Runtime
-      url: https://www.jooq.org/legal/licensing
-    - name: Meta
-      url: https://www.jooq.org/legal/licensing
-    - name: Codegen
-      url: https://www.jooq.org/legal/licensing
+  - name: Runtime
+    url: https://www.jooq.org/legal/licensing
+  - name: Meta
+    url: https://www.jooq.org/legal/licensing
+  - name: Codegen
+    url: https://www.jooq.org/legal/licensing
 - name: JBIG-KIT
   url: https://www.cl.cam.ac.uk/~mgk25/jbigkit/
 - name: LexPredict
   url: https://lexpredict.com
   products:
-    - name: ContraxSuite
-      url: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
+  - name: ContraxSuite
+    url: https://www.lexpredict.com/2017/07/licensing-contraxsuite-legaltech-dual/
 - name: Lightbend
   url: https://www.lightbend.com
   products:
-    - name: Akka
-      url: https://www.lightbend.com/akka/
+  - name: Akka
+    url: https://www.lightbend.com/akka/
 - name: Magnolia CMS
   url: https://www.magnolia-cms.com/
 - name: Mergely
@@ -89,10 +89,10 @@ licensors:
 - name: Metafizzy
   url: https://metafizzy.co/
   products:
-    - name: Isotope
-      url: https://isotope.metafizzy.co/license.html
-    - url: https://flickity.metafizzy.co/license.html
-      name: Flickity
+  - name: Isotope
+    url: https://isotope.metafizzy.co/license.html
+  - url: https://flickity.metafizzy.co/license.html
+    name: Flickity
 - name: Metaways
   url: https://www.metaways.de/en/welcome/
 - name: MinIO
