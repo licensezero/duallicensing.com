@@ -1,9 +1,10 @@
 YAML=node_modules/.bin/js-yaml
+EJS=node_modules/.bin/ejs
 
 all: index.html
 
-index.html: data.sorted.json index.template.html | node_modules
-	node_modules/.bin/mustache $^ > $@
+index.html: data.sorted.json index.template.html | $(EJS)
+	$(EJS) -o $@ -f $^
 	tidy -config tidy.config $@ | sponge $@
 
 data.sorted.json: data.json

@@ -27,29 +27,26 @@
     <section id="who">
       <h2>Who is dual licensing?</h2>
       <ul>
-        {{#licensors}}
+        <% for (const licensor of licensors) { %>
         <li>
-          <a href="{{url}}">{{name}}</a>
-          {{#formerly}}
-          (formerly {{.}})
-          {{/formerly}}
-          {{#products}}
-            {{#page}}(<a href="{{page}}">{{name}}</a>){{/page}}
-            {{^page}}({{name}}){{/page}}
-          {{/products}}
+          <a href="<%= licensor.url %>"><%= licensor.name %></a><% if (licensor.formerly) { %> (formerly <%= licensor.formerly %>)<% } %><% if (licensor.products) { %>:
+            <% for (const [index, product] of licensor.products.entries()) { %>
+              <% if (product.page) { %><a href="<%= product.page %>"><%= product.name %></a><% } else { %><%= product.name %><% } %><% if (index < (licensor.products.length -1 )) { %>, <% } %>
+            <% } %>
+          <% } %>
         </li>
-        {{/licensors}}
+        <% } %>
       </ul>
       <p>Missing someone? <a href="https://github.com/licensezero/duallicensing.com/edit/main/data.yml">Send a pull request</a>!</p>
     </section>
     <section id="historic">
       <h2>Any historic examples?</h2>
       <ul>
-        {{#historic}}
+        <% for (const licensor of historic) { %>
         <li>
-          <a href="{{url}}">{{name}}</a>
+          <a href="<%= licensor.url %>"><%= licensor.name %></a>
         </li>
-        {{/historic}}
+        <% } %>
       </ul>
     </section>
     <section id="learn">
