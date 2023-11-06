@@ -42,6 +42,18 @@ licensors:
   - name: IndentityServer
     url: https://duendesoftware.com/products/identityserver
 
+- name: Element
+  url: https://element.io
+  products:
+  - name: Synapse
+    url: https://element.io/blog/element-to-adopt-agplv3/
+  - name: Dendrite
+    url: https://element.io/blog/element-to-adopt-agplv3/
+  - name: Sydent
+    url: https://element.io/blog/element-to-adopt-agplv3/
+  - name: Sygnal
+    url: https://element.io/blog/element-to-adopt-agplv3/
+
 - name: EPPlus
   url: https://www.epplussoftware.com/
 
