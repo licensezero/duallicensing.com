@@ -12,7 +12,7 @@ properties:
         url:
           type: string
           format: url
-        properties:
+        products:
           type: array
           items:
             type: object
