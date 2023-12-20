@@ -267,6 +267,9 @@ licensors:
   - name: Ice
     url: https://zeroc.com/licensing
 
+- name: tldraw
+  url: https://tldraw.com/
+
 historic:
 
 - url: https://en.wikipedia.org/wiki/Mosaic_(web_browser)
