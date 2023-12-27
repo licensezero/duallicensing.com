@@ -211,6 +211,9 @@ licensors:
   - name: sequence.js
     url: http://www.stripjs.com/license
 
+- name: Sentry
+  url: https://sentry.io
+
 - name: SQLite
   url: https://sqlite.org/
 
