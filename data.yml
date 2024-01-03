@@ -225,6 +225,9 @@ licensors:
   - name: TIBET
     url: https://technicalpursuit.com/license.xhtml
 
+- name: tldraw
+  url: https://www.tldraw.com
+
 - name: The Qt Company
   url: https://www.qt.io/company
   formerly: TrollTech AS
