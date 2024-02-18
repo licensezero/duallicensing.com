@@ -54,6 +54,12 @@ licensors:
   - name: Sygnal
     url: https://element.io/blog/element-to-adopt-agplv3/
 
+- name: Entr'Ouvert
+  url: https://entrouvert.org
+  products:
+    - name: Lasso
+      url: https://lasso.entrouvert.org/
+
 - name: EPPlus
   url: https://www.epplussoftware.com/
 
