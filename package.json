@@ -1,15 +1,12 @@
 {
   "private": true,
+  "type": "module",
   "devDependencies": {
-    "ajv-cli": "^5.0.0",
     "ajv-formats": "^2.1.1",
     "ejs": "^3.1.8",
     "js-yaml": "^4.1.0"
   },
   "scripts": {
-    "data": "js-yaml < data.yml > data.json",
-    "schema": "js-yaml < schema.yml > schema.json",
-    "pretest": "npm run data && npm run schema",
-    "test": "ajv test -c ajv-formats -s schema.json -d data.json --valid"
+    "test": "node --test"
   }
 }
