@@ -2,5 +2,5 @@
 set -e
 npm it
 SITE=duallicensing.com
-make
+npm run build
 scp index.html styles.css $SITE:/var/www/$SITE/
