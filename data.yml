@@ -198,6 +198,14 @@ licensors:
 - name: RavenDB
   url: https://ayende.com/blog/186147-A/making-money-from-open-source-software-how-we-do-it
 
+- name: Redis
+  url: https://redis.com/blog/redis-adopts-dual-source-available-licensing/
+  products:
+    - name: Redis
+      url: https://redis.io/docs/about/
+    - name: Redis Stack
+      url: https://redis.io/docs/about/about-stack/
+
 - name: Sangoma
   url: https://www.sangoma.com/
   products:
