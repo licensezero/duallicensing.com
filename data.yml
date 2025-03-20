@@ -258,6 +258,9 @@ licensors:
 - name: ServiceStack
   url: https://servicestack.net
 
+- name: UAParser.js
+  url: https://uaparser.dev/
+
 - name: University of California Santa Cruz
   url: https://ucsc.edu/
   products:
