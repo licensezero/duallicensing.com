@@ -23,6 +23,9 @@ properties:
               url:
                 type: string
                 format: url
+              announcement:
+                type: string
+                format: url
   historic:
     type: array
     items:

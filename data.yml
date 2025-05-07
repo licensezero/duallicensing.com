@@ -104,6 +104,21 @@ licensors:
 - name: Jaspersoft
   url: https://www.jaspersoft.com/
 
+- name: JetBrains
+  url: https://www.jetbrains.com
+  products:
+  - name: CLion
+    url: https://www.jetbrains.com/clion/
+    announcement: https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/
+  - name: RustRover
+    url: https://www.jetbrains.com/rust/
+  - name: Rider
+    url: https://www.jetbrains.com/rider/
+    announcement: https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/
+  - name: WebStorm
+    url: https://www.jetbrains.com/webstorm/
+    announcement: https://blog.jetbrains.com/blog/2024/10/24/webstorm-and-rider-are-now-free-for-non-commercial-use/
+
 - name: JOOQ
   url: https://jooq.org
   products:
