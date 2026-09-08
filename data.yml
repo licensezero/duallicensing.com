@@ -234,6 +234,9 @@ licensors:
 - name: Sendmail, Inc.
   url: http://www.sendmail.com/
 
+- name: SuperDoc
+  url: https://www.superdoc.com
+
 - name: Ian Lunn
   url: https://www.sequencejs.com/
   products:
