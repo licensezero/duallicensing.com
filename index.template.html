@@ -30,9 +30,7 @@
         <% for (const licensor of licensors) { %>
         <li>
           <a href="<%= licensor.url %>"><%= licensor.name %></a><% if (licensor.formerly) { %> (formerly <%= licensor.formerly %>)<% } %><% if (licensor.products) { %>:
-            <% for (const [index, product] of licensor.products.entries()) { %>
-              <% if (product.url) { %><a href="<%= product.url %>"><%= product.name %></a><% } else { %><%= product.name %><% } %><% if (index < (licensor.products.length -1 )) { %><% } %><% if (product.announcement) { %> (<a href="<%= product.announcement %>">announcement</a>)<% } %>, 
-            <% } %>
+            <% let first = true; for (const [index, product] of licensor.products.entries()) { %><% if (!first) { %>, <% } %><% if (product.url) { %><a href="<%= product.url %>"><%= product.name %></a><% } else { %><%= product.name %><% } %><% if (index < (licensor.products.length -1 )) { %><% } %><% if (product.announcement) { %> (<a href="<%= product.announcement %>">announcement</a>)<% } %><% first = false %><% } %>
           <% } %>
         </li>
         <% } %>
