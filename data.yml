@@ -13,6 +13,9 @@ licensors:
   products:
   - name: Ghostscript
 
+- name: Bitwarden
+  url: https://bitwarden.com
+
 - name: Coherent Graphics Ltd
   url: https://www.coherentpdf.com/
   products:
