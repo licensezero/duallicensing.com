@@ -1,9 +1,9 @@
 import { readFileSync, writeFileSync } from 'node:fs'
 import { spawnSync } from 'node:child_process'
-import yaml from 'js-yaml'
+import { load } from 'js-yaml'
 import ejs from 'ejs'
 
-const data = yaml.load(readFileSync('data.yml', 'utf8'))
+const data = load(readFileSync('data.yml', 'utf8'))
 
 data.licensors.sort(byName)
 
