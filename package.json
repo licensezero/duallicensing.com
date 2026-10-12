@@ -4,7 +4,7 @@
   "devDependencies": {
     "ajv-formats": "^3.0.1",
     "ejs": "^7.0.1",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^5.4.3"
   },
   "scripts": {
     "build": "node build.js",
